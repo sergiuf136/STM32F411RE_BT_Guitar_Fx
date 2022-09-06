@@ -1,0 +1,8 @@
+../Core/Src/audio.c:48:6:Audio_Init	8	static
+../Core/Src/audio.c:72:6:Audio_Step	24	static
+../Core/Src/audio.c:127:6:HAL_ADC_ConvHalfCpltCallback	16	static
+../Core/Src/audio.c:132:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/audio.c:137:6:HAL_I2S_TxHalfCpltCallback	16	static
+../Core/Src/audio.c:144:6:HAL_I2S_TxCpltCallback	16	static
+../Core/Src/audio.c:151:6:HAL_ADC_ErrorCallback	16	static
+../Core/Src/audio.c:157:6:HAL_I2S_ErrorCallback	16	static
